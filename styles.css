@@ -390,6 +390,10 @@ animation: animate-wave 1s infinite ease-in-out;
   color: #fff;
 }
 
+.website__links--projects:visited{
+color: white;
+}
+
 /* FOOTER */
 
 footer {
