@@ -40,6 +40,7 @@ i:hover{
   opacity: 0.7;
 }
 
+
 .link__hover-effect::after {
   content: "";
   position: absolute;
@@ -392,6 +393,10 @@ animation: animate-wave 1s infinite ease-in-out;
 
 .website__links--projects:visited{
 color: white;
+}
+
+.website__links--projects:hover{
+  opacity: 0.7;
 }
 
 /* FOOTER */
